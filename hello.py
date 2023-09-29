@@ -1,4 +1,4 @@
-print('Hello word')
+print('Hello world') #Esqueci o "l" em world kkk
 
 #para diferencias do que normalmente as pessoas fazem.
 #Olha só 
