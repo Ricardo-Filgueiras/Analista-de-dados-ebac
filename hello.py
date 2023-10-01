@@ -54,3 +54,8 @@ Digite “ajuda”, “copyright”, “créditos” ou “licença” para obte
 - Se a implementação for difícil de explicar, é uma má ideia.
 - Se a implementação for fácil de explicar, pode ser uma boa ideia.
 - Namespaces são uma ótima ideia - vamos fazer mais deles!'''
+
+#adicionei mais essa linha da maquina local para o github e depois colab
+
+
+print('ola mundo')
