@@ -59,3 +59,9 @@ Digite “ajuda”, “copyright”, “créditos” ou “licença” para obte
 
 
 print('ola mundo')
+
+
+
+print("Aaaahhhhhhhhhhhhhhhhhhhhhhhhh")
+
+#finalmente deu certo ?
