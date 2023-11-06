@@ -1,0 +1,22 @@
+ethnicity,parental_education,lunch,preparation_course,math,reading,writing,sex
+group B,bachelor's degree,standard,none,0.72,0.72,0.74,F
+group C,some college,standard,completed,0.69,0.9,0.88,F
+group B,master's degree,standard,none,0.9,0.95,0.93,F
+group A,associate's degree,free/reduced,none,0.47,0.57,0.44,M
+group C,some college,standard,none,0.76,0.78,0.75,M
+group B,associate's degree,standard,none,0.71,0.83,0.78,F
+group B,some college,standard,completed,0.88,0.95,0.92,F
+group B,some college,free/reduced,none,0.4,0.43,0.39,M
+group D,high school,free/reduced,completed,0.64,0.64,0.67,M
+group B,high school,free/reduced,none,0.38,0.6,0.5,F
+group C,associate's degree,standard,none,0.58,0.54,0.52,M
+group D,associate's degree,standard,none,0.4,0.52,0.43,M
+group B,high school,standard,none,0.65,0.81,0.73,F
+group A,some college,standard,completed,0.78,0.72,0.7,M
+group A,master's degree,standard,none,0.5,0.53,0.58,F
+group C,some high school,standard,none,0.69,0.75,0.78,F
+group C,high school,standard,none,0.88,0.89,0.86,M
+group B,some high school,free/reduced,none,0.18,0.32,0.28,F
+group C,master's degree,free/reduced,completed,0.46,0.42,0.46,M
+group C,associate's degree,free/reduced,none,0.54,0.58,0.61,F
+group D,high school,standard,none,0.66,0.69,0.63,M
