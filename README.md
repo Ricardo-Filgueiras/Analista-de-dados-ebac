@@ -31,4 +31,4 @@ Espero que este repositório seja útil para quem busca compreender a trajetóri
 
 Agradeço por visitar este repositório!
 
-
+print(variavel)
