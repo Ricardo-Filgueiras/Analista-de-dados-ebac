@@ -1,0 +1,7 @@
+Anotações do Modulo 12 
+
+Depois de passar dois dias sem mexer nessa questão 
+um colega de trabalhor me avisou sobre os erro estava no modo de leitura do arquivo
+inves de "a" de append para adicionar as novas linhas estava no mode de escrita,
+alem disso eu estava certo que sertia necessario oum loop for for para escrever cada linha
+depois do cabeçalho, o que não era precisso por conta da biblioteca csv importada 

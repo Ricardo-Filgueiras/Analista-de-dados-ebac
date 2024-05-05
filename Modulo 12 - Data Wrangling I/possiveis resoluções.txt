@@ -1,0 +1,25 @@
+2.2 explorando dataframe com Pandas 
+
+
+duvidas 
+
+liste os tipos de dados armazenados na coluna do dataframe 
+	
+
+
+
+liste o numero de linhas e colunas do dataframe 
+	frotune_df.shape
+
+
+2,3 limpando o Dataframe
+
+  fortune_dados_limpos = fortune_df.loc[0:99 
+  fortune_df = fortun_df.loc[lambda  Nome da serie/coluna : Nome da serie/coluna == '$' & '%'] = ''
+
+
+
+atualização 
+
+
+fortune_df[coluna de interrese] = frotune_df[colunade de interrese].apply(lambda Colunas/de/interesse : 
