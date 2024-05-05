@@ -1,0 +1,34 @@
+web crawling - capturando dados da web
+
+Web crawling e uma atividade de coletar informações da web de forma automatizada usando softwares chamados
+crawles ou spiders.
+
+
+Pacotes Python para interagir com a eweb  através do protocolo HTTP...
+
+Importe requests
+print(requests.__verion__)
+
+
+
+
+respota = requests.get(' LINK URL')
+
+
+print(resposta.status_code_)
+
+ 
+fron requests.exceptions import HTTPError 
+
+conteudo = none 
+URL = " LINK URL "
+
+try:
+	resposta = requests.get(URL)
+	resposta.raise_for_status()
+except HTTPError as exc:
+	print(exc)
+else:
+	conteudo = resposta.text
+
+printe(conteudo)

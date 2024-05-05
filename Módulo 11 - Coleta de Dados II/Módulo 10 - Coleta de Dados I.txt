@@ -1,0 +1,6 @@
+Aula 2: Extraindo dados da web (scrapping)
+
+no scrapping buscamos pegar os conteudos relevantes
+
+
+
