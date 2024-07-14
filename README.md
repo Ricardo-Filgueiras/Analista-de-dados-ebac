@@ -13,9 +13,30 @@ O Curso de Analista de Dados pela EBAC abrange desde o básico até tópicos ava
 
 Durante o curso, a principal ferramenta de estudo foi o Python para análise de dados, no entanto, também foram exploradas outras ferramentas relevantes para a profissão. Isso inclui a aplicação de SQL, Big Data e outras tecnologias essenciais para manipulação e interpretação de conjuntos de dados.
 
+* Python
+* Aws
+* SQL
+* Telegram Bots
+
 ## Acompanhamento da Evolução com Python
 
 Neste repositório, estou documentando minha evolução em Python ao longo dos módulos do curso. Você encontrará desde os conceitos básicos até abordagens mais avançadas conforme avanço nas lições.
+
+### Python para Análise de Dados.
+* do Modulo 1 ao 9.
+### Análise de Dados.
+* do Modulo 10 ao 17.
+### Controle de Versão.
+* do Modulo 18 ao 19
+### Fundamentos da matemática.
+* do Modulo 20 e 21
+### Aprendizado de máquina.
+* do Modulo 22 ao 26
+### Análise de dados para inteligência de negócios.
+* do Modulo 27 e 28
+### Banco de dados e SQL.
+* do Modulo 29 ao 35
+
 
 ## Projetos e Aplicações Específicas
 
