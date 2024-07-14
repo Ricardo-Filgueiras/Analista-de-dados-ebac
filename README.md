@@ -1,4 +1,4 @@
-# da-ebac
+# Analista-de-dados-ebac
 Curso ebac analista de dados em python.
 
 # Projeto de Análise de Dados - Repositório de Estudos
